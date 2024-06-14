@@ -2,3 +2,6 @@
 	path = appointments-back
 	url = https://github.com/Chikavi1/appointments-back.git
 	branch = dockerized
+[submodule "appointments-front"]
+	path = appointments-front
+	url = https://github.com/Chikavi1/appointments-front.git
