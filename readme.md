@@ -12,7 +12,7 @@ git clone https://github.com/Chikavi1/sonetasot.git
 cd netasot
 git submodule update --init
 docker-compose up --build --force-recreate
-
+```
 
 ## Notas
 
