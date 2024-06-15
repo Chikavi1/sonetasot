@@ -16,4 +16,4 @@ docker-compose up --build --force-recreate
 
 ## Notas
 
-Se ha desarrollado la página 1, la cual permite crear y verificar reservaciones utilizando el CURP. Los demás puntos de API pueden ser utilizados con Postman. Quedo a disposición para cualquier consulta o sugerencia que puedas tener.
+Se ha desarrollado la página 1, la cual permite crear y verificar reservaciones utilizando el CURP. Los demás puntos de API pueden ser utilizados con Postman (los endpoints los pueden ver en el readme del repositorio del backend). Quedo a disposición para cualquier consulta o sugerencia que puedan tener.
