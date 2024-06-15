@@ -2,12 +2,6 @@
 
 Este repositorio contiene el proyecto de registro de citas para COVID en Jalisco, que consta de un frontend en Angular y un backend en Node.js.
 
-## Requisitos previos
-
-Antes de ejecutar la aplicación, asegúrate de tener instalados los siguientes componentes en tu sistema:
-
-- Docker
-- Docker Compose
 
 ## Clonar el Repositorio
 
@@ -18,3 +12,8 @@ git clone https://github.com/Chikavi1/sonetasot.git
 cd netasot
 git submodule update --init
 docker-compose up --build --force-recreate
+
+
+## Notas
+
+Se ha desarrollado la página 1, la cual permite crear y verificar reservaciones utilizando el CURP. Los demás puntos de API pueden ser utilizados con Postman. Quedo a disposición para cualquier consulta o sugerencia que puedas tener.
